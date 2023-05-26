@@ -1,15 +1,14 @@
-- 👋 Hi, I’m Muhamamd Hasnain Ali
-- 👀 I’m a full stack web developer 
--   MERN
--   Python/Django
-- 🌱 I’m currently learning AWS.
-- 📫 How to reach me:
--   gmail: m.hasnainali.home@gmail.com
--   linkedin: https://www.linkedin.com/in/muhammad-hasnain-ali-753a03236/
--   
-- 😋 I am a foodie, and i really love to enjoy food 
+👋 Hi, I'm Muhammad Hasnain Ali!
 
-<!---
-m-ali-hasnain/m-ali-hasnain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm a full stack web developer with expertise in MERN (MongoDB, Express.js, React, Node.js) stack and Python/Django.
+
+🌱 Currently, I'm focused on expanding my knowledge in AWS (Amazon Web Services) and diving deeper into cloud computing.
+
+📫 You can reach me through:
+
+- Gmail: m.hasnainali.home@gmail.com
+- LinkedIn: [Muhammad Hasnain Ali](https://www.linkedin.com/in/muhammad-hasnain-ali-753a03236/)
+
+😋 Apart from coding, I am a foodie and I truly enjoy exploring and savoring delicious food.
+
+Let's connect and collaborate on exciting projects!
