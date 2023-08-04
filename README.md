@@ -1,6 +1,4 @@
-Absolutely! Here's the revised version with "Reach me out" links for email and LinkedIn:
-
-👨‍💻 Young & Passionate Software Enthusiast | 3 Years of Delivering Quality Products 👨‍💻
+👨‍💻 Young & Passionate Software Enthusiast | Cyber Security Enthusiast 👨‍💻
 
 Hello there! I'm a software developer at Devsinc, fueled by my passion for collaboration and networking. Always on the lookout for growth opportunities, I thrive in the realm of challenging projects, workshops, and meaningful connections with industry experts. With 3 years of experience, I've honed my skills in a diverse range of technologies, from JS Frameworks to Python/Django and beyond.
 
@@ -39,5 +37,3 @@ Beyond the realm of code, I have an insatiable love for Pakistani Cuisine, and I
 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-hasnain-ali-753a03236/
 
 🚀 Let's connect to explore potential collaborations, discuss exciting projects, or share your passion for technology and good food!
-
-Remember to customize the email address and LinkedIn profile link with your actual contact information. Happy networking and coding! 🚀
