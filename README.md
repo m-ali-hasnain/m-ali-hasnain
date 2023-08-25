@@ -1,6 +1,6 @@
 👨‍💻 Young & Passionate Software Enthusiast | Cyber Security Enthusiast 👨‍💻
 
-Hello there! I'm a software developer at Devsinc, fueled by my passion for collaboration and networking. Always on the lookout for growth opportunities, I thrive in the realm of challenging projects, workshops, and meaningful connections with industry experts. With 3 years of experience, I've honed my skills in a diverse range of technologies, from JS Frameworks to Python/Django and beyond.
+Hello there! I'm a software developer at Devsinc, fueled by my passion for collaboration and networking. Always on the lookout for growth opportunities, I thrive in the realm of challenging projects, workshops, and meaningful connections with industry experts. With 5 years of experience, I've honed my skills in a diverse range of technologies, from JS Frameworks to Python/Django and beyond.
 
 🔧 Major Skills 🔧
 
